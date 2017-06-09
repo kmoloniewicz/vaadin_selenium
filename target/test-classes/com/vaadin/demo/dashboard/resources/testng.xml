@@ -1,0 +1,11 @@
+<suite name="Suite" parallel="none">
+<parameter name="properties" value="Test.properties" />
+<test name="test">
+    <classes>
+
+        <class name="Put your class name here" />
+        <methods></methods>
+    </classes>
+
+</test>
+</suite>
